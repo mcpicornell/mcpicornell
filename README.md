@@ -1,9 +1,9 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/870748997466000124/F1B88FD2E6D2A86F5FE2B028654C7ECDCBD4DE6D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="2000" height="450" />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/870748997466000124/F1B88FD2E6D2A86F5FE2B028654C7ECDCBD4DE6D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  alt="matrix-code" width="2000" height="450" />
 
 <h1 align="center">Hi 👋, I'm Marc Castro</h1>
 <h3 align="center">A passionate Jr Fullstack Developer from Spain</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcpicornell" alt="mcpicornell" /></a> </p>
+<img align="right" alt="developer" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="550" src="https://github-profile-trophy.vercel.app/?username=mcpicornell" alt="mcpicornell" /></a> </p>
 
 - 🔭 I’m currently working on [Hotel Miranda](https://github.com/mcpicornell/dashboard-miranda)
 
