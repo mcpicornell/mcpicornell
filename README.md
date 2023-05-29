@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Marc Castro</h1>
 <h3 align="center">A passionate Jr Fullstack Developer from Spain</h3>
-<img align="center" alt="developer" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
-<br>
+<p align="center">
+<img  alt="developer" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+</p>
 
 
 - 🔭 I’m currently working on [Hotel Miranda](https://github.com/mcpicornell/dashboard-miranda)
