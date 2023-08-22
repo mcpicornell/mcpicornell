@@ -7,13 +7,11 @@
 </p>
 
 
-- 🔭 I’m currently working on [Hotel Miranda](https://github.com/mcpicornell/dashboard-miranda)
-
-- 🌱 I’m currently learning **on OxygenAcademy Training**
+- 🔭 I’m currently working on [Rating Revolution](https://github.com/mcpicornell/rating-revolution)
 
 - 👨‍💻 All of my projects are available at [https://marc-castro-picornell.vercel.app](https://marc-castro-picornell.vercel.app)
 
-- 💬 Ask me about **React, Redux, Typescript, Javascript, Scss, Css**
+- 💬 Ask me about **React, Redux, Typescript, Javascript, Python, Laravel, Node.js, fastAPI, Css**
 
 - 📫 How to reach me **marc.castro.picornell@gmail.com**
 
