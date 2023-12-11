@@ -7,7 +7,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Fideltour](https://www.fideltour.com)
+- 🔭 I’m currently working at [Fideltour](https://www.fideltour.com)
 
 - 👨‍💻 All of my projects are available at [https://marc-castro-picornell.vercel.app](https://marc-castro-picornell.vercel.app)
 
