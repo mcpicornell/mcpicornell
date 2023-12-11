@@ -7,11 +7,11 @@
 </p>
 
 
-- 🔭 I’m currently working on [Rating Revolution](https://github.com/mcpicornell/rating-revolution)
+- 🔭 I’m currently working on [Fideltour]([https://www.fideltour.com])
 
 - 👨‍💻 All of my projects are available at [https://marc-castro-picornell.vercel.app](https://marc-castro-picornell.vercel.app)
 
-- 💬 Ask me about **React, Redux, Typescript, Javascript, Python, Laravel, Node.js, fastAPI, Css**
+- 💬 Ask me about **Python, Django, MySQL, React, Redux, Typescript, Javascript, MongoDB, Laravel, Node.js, fastAPI, Css**
 
 - 📫 How to reach me **marc.castro.picornell@gmail.com**
 
